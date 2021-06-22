@@ -6,7 +6,7 @@ If you dont have git(download from this link https://git-scm.com/downloads)
 
 ---
 
-After cloning the jdx and library file, copy it and paste it in the library folder of proteus(which can be found in Programs/(x86) file).
+After cloning the idx and library file, copy it and paste it in the library folder of proteus(which can be found in Programs/(x86) file).
 
 If you have installed in C drive, then the folder be in the path:
 C:/ProgramData(or Programs(x86))/Proteus 8 Professtional/LIBRARY
