@@ -12,7 +12,7 @@ If you have installed in C drive, then the folder be in the path:
 C:/ProgramData(or Programs(x86))/Proteus 8 Professtional/LIBRARY
  ---
 
- Then just paste those file(.jdx and .library) in it.
+ Then just paste those file(.idx and .library) in it.
   ---
 
   It includes the following Arduinos :
